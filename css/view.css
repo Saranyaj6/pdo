@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+h1{
+    padding: 30px;
+}
+table, th ,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td,th{
+    padding: 10px;
+}
+
+table{
+    margin:0 auto;
+}
